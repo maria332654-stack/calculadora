@@ -42,7 +42,7 @@ body {
     gap: 10px;
 }
 
-button {
+.button {
     padding: 20px;
     font-size: 1.2rem;
     border: none;
